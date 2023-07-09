@@ -27,9 +27,6 @@
               <li>
                 <router-link to="/doc/container">Container 布局容器</router-link>
               </li>
-              <li>
-                <router-link to="/doc/grid">Grid 栅格</router-link>
-              </li>
 
               <li>
                 <router-link to="/doc/typo">Typography 组件</router-link>
@@ -53,17 +50,11 @@
               <li>
                 <router-link to="/doc/switch">Switch 开关</router-link>
               </li>
-              <li>
-                <router-link to="/doc/select">Select 选择器</router-link>
-              </li>
             </ol>
           </section>
           <section class="sidebar-group">
             <p class="sidebar-group-title">Data数据展示</p>
             <ol>
-              <li>
-                <router-link to="/doc/carousel">Carousel 走马灯</router-link>
-              </li>
               <li>
                 <router-link to="/doc/collapse">Collapse 折叠面板</router-link>
               </li>
@@ -82,6 +73,7 @@
                 <router-link to="/doc/backTop">BackTop 回到顶部</router-link>
               </li>
             </ol>
+            <p class="sidebar-group-title">...</p>
           </section>
 
           <div class="vertical-scroll">
