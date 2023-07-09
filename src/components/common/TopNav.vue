@@ -8,7 +8,7 @@
 
     <ul class="menu">
       <li>
-        <a href="https://github.com/YMingF/Yan-Ui" target="_blank">
+        <a href="https://github.com/taozhenlin/z-ui-website" target="_blank">
           <svg class="githubIcon">
             <use xlink:href="#icon-github"></use>
           </svg>
